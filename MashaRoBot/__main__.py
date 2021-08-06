@@ -118,10 +118,10 @@ buttons = [
 
 
 HELP_STRINGS = """
-༆*LOVELY comes with many special features in it*༆
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF LOVELY*꧂
+INTEL CORE G7 comes with many special features in it!
+CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF Core™
 𖣘 *All commands can either be used with* `/` *or* `!`.
-𖣘 *If you facing any issue or find any bugs in any command then you can report it in @LOVELYAPPEAL* [.](https://telegra.ph/file/cbbf01ed6f013ce07d54f.jpg)
+𖣘 *If you facing any issue or find any bugs in any command then you can report it in @RobotTech_chat
 """
 
 
