@@ -125,7 +125,7 @@ CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF Core™
 """
 
 
-DONATE_STRING = """No need.. I'm rich"""
+DONATE_STRING = """Bsdk No need.. I'm rich"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -235,7 +235,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code> Join @LOVELYAPPEAL for help".format(
+            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code> Join @RobotTech_official for help".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -370,7 +370,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *LOVELY*, a powerful group management bot built to help you manage your group easily.
+            text=""" 🔸 I'm 『Ｉｎｔｅｌ乛Ｃｏｒｅ』, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -378,8 +378,8 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Emcee's licensed under the GNU General Public License v3.0_
-                 Here is the [💾Repository](https://t.me/LOVELYAPPEAL).
-                 If you have any question about Lovely, let us know at @LOVELYAPPEAL.""",
+                 Here is the [💾Repository](https://t.me/RobotTech_official).
+                 If you have any question about core , .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -405,8 +405,8 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *lovely*
-                 \nHere is the [Source Code](https://t.me/LOVELYAPPEL) .""",
+            text=""" Hi..🤗 I'm 『Ｉｎｔｅｌ乛Ｃｏｒｅ』
+                 \nHere is the [Source Code](https://t.me/RobotTech_Official/42) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
             reply_markup=InlineKeyboardMarkup(
