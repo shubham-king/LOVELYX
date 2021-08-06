@@ -1,12 +1,12 @@
 #LOVE STATUS AND SHAYRI 
 #OWNED BY TUSHAR
 
-__mod_name__ = "Lᴏᴠᴇ❤️"
+__mod_name__ = "Intel core"
 __help__ = """
           ꧁ LOVE IS LYF ❤️꧂
 
-Here is love sad ,romantic status , poetry , shayri , friendship etc...
-Join [LOVE STATUS❤️](https://t.me/shayri_of_loves) to see our post
+nothing available
 
-OWNED by [ƬƲƧӇƛƦ](https://t.me/TUSHAR204)
+
+OWNED by !shubham 🤗
 """
