@@ -81,15 +81,15 @@ I AM MULTI TALENTED TELEGRAM BOT TO MANAGE GROUPS.[INTEL](https://telegra.ph/fil
 
 ➪ For More help [Join](t.me/robottech_official) For Any queries and [ᴀᴘᴘᴇᴀʟ](https://t.me/LOVELYAPPEAL) ʜᴇʀᴇ.
 
-➪ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ʜᴇʟᴘ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ғᴇᴀᴛᴜʀᴇs.
+➪ Click the button given below and expose me!
 
-➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [𝕷𝖔𝖇𝖊 𝕱𝖆𝖎𝖑𝖚𝖗𝖊](t.me/shayri_of_loves)
+➪ Pᴏᴡᴇʀᴇᴅ ʙʏ [DYNAMITE CORE](https://t.me/DynamiteCore)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Aᴅᴅ ʟᴏᴠᴇʟʏ ᴛᴏ ɢʀᴏᴜᴘ ➕️", url="t.me/LOVELYR_OBOT?startgroup=true"),
+            text="➕️ Add 『Ｉｎｔｅｌ乛Ｃｏｒｅ』 to group ➕️", url="t.me/IntelCore_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️Aʙᴏᴜᴛ", callback_data="masha_"),
