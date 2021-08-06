@@ -92,25 +92,25 @@ buttons = [
             text="➕️ Add 『Ｉｎｔｅｌ乛Ｃｏｒｅ』 to group ➕️", url="t.me/IntelCore_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ℹ️Aʙᴏᴜᴛ", callback_data="masha_"),
-        InlineKeyboardButton(text="🆘Hᴇʟᴘ", callback_data="help_back"),
+        InlineKeyboardButton(text="🔸About", callback_data="masha_"),
+        InlineKeyboardButton(text="🔸Help", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="✨Lᴏᴠᴇʟʏ ʟᴏɢs✨", url="t.me/LOV3LYLOGS"),
+            text="sponsor", url="https://t.me/DynamiteCore"),
         InlineKeyboardButton(
-            text="👥Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👥", url="https://t.me/LOVELYAPPEAL"),
+            text="👥Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ👥", url="https://t.me/RobotTech_chat"),
     ],
     [  
-        InlineKeyboardButton(text="😈Lᴏᴠᴇʟʏ ᴅᴇᴠs😈", url="https://t.me/LOVELYDEVS"
+        InlineKeyboardButton(text="✨ Channel ✨", url="https://t.me/RobotTech_official"
     ),
     ], 
     [
-        InlineKeyboardButton(text="❤️Lᴏᴠᴇ sᴛᴀᴛᴜs❤️", url="https://t.me/shayri_of_loves"
+        InlineKeyboardButton(text="🎧 Music Group 🎧", url="https://t.me/Music_Enviroment"
     ), 
     ],
     [   
-        InlineKeyboardButton(text="🔰Uᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🔰", url="https://t.me/ABOUTVEDMAT"
+        InlineKeyboardButton(text="🔸 Chatting 🔸", url="https://t.me/Chatting_Officials"
     ),
     ],
 ]
